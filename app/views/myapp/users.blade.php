@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 @section('titulo')
 Users
-@show
+@stop
 @section('cuerpo')
 <div class="container content">
 	<table class="table table-hover">

@@ -1,7 +1,7 @@
 @extends('layouts.layout')
 @section('titulo')
 Inicio
-@show
+@stop
 @section('cuerpo')
 	<div class="container content">
 
